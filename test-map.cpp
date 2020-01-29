@@ -308,7 +308,7 @@ void testStrToStrMap2() {
 }
 
 int main() {
-    OUT("Beginning tests!")
+    OUT("Beginning tests!");
 
     testObject1();
     testString1();
